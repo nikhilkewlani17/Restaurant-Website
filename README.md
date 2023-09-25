@@ -1,7 +1,7 @@
 # Restaurant-Website
 # Restaurant Landing Page
 
-- Used bootstrap tools & own styles.
+- Used CASCADING STYLE SHEET.
 - Implemented responsive template.
 
 👉🏻 [Demo](https://yaninatrekhleb.github.io/restaurant-website/)
